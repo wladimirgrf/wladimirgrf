@@ -12,7 +12,7 @@ I am Wladimir, working as a Full Stack Developer in a new career path, performin
 
 <img align="right" alt="GIF" src=".github/assets/coding.gif" width="48%" />
 
-#### 🌍 Languages and Tools  
+#### 👨🏻‍💻 Knowledge 
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -23,8 +23,6 @@ I am Wladimir, working as a Full Stack Developer in a new career path, performin
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
 
-
-#### 📈 My Github stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true" alt="stats" width="48%" />
 
