@@ -8,7 +8,7 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=wladimirgrf.wladimirgrf)
 </p>
 
-<img align="right" alt="GIF" src=".github/assets/coding.gif" width="48%" />
+<img align="right" alt="GIF" src=".github/assets/coding.gif" width="49%" />
 
 I am Wladimir, working as a Full Stack Developer in a new career path, performing the application end-to-end architecture, definition and coding the web ecosystem.
 
