@@ -15,7 +15,7 @@ I am Wladimir, working as a Full Stack Developer in a new career path, performin
 - 👨🏽‍💻 I’m currently learning Next.js; 
 - 💬 Ask me about anything, I am happy to help;
 
-<img align="right" alt="GIF" src=".github/assets/coding.gif" width="425" />
+<img align="right" alt="GIF" src=".github/assets/coding.gif" width="420" />
 
 **Languages and Tools:**  
 
