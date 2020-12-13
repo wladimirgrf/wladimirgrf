@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Wladimir</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+### I'm Wladimir
+
+A JavaScript developer. Passionate for building applications & discussing new product ideas. Reach out to me if you'd like to talk ✌️
+
+<p>
+  <a href="https://www.linkedin.com/in/wladimir-filho">
+    <img alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/wladimirgrf">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+   <a href="https://twitter.com/wladimirgrf">
+     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 <p>
   <img height="45" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
@@ -29,23 +42,6 @@
 </tr>
 <table>
 
-<h3>Where to find me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/wladimir-filho">
-    <img alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/wladimirgrf">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-   <a href="https://twitter.com/wladimirgrf">
-     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
 
 -----------------
 
-<p align="center">
-  
-
-</p>
