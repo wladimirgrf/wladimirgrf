@@ -1,18 +1,11 @@
 ### I'm Wladimir
 
-A JavaScript developer. Passionate for building applications & discussing new product ideas. Reach out to me if you'd like to talk ✌️
+A JavaScript developer, passionate for building applications & discussing new product ideas. 
+</br> Reach out to me if you'd like to talk :v:
 
-<p>
-  <a href="https://www.linkedin.com/in/wladimir-filho">
-    <img alt="LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/wladimirgrf">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-   <a href="https://twitter.com/wladimirgrf">
-     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wladimir-filho)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/wladimirgrf)
+[![HackerHank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/wladimirgrf)
 
 <p>
   <img height="45" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
@@ -33,13 +26,13 @@ A JavaScript developer. Passionate for building applications & discussing new pr
 </p>
 
 <table>
-<tr>
-  <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimirgrf&layout=compact&hide_border=true" alt="langs_stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true" alt="profile_stats" />
-  </td>
-  <td width="50%"><img align="right" alt="GIF" src=".github/assets/coding.gif"  /></td>
-</tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimirgrf&layout=compact&hide_border=true" alt="langs_stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true" alt="profile_stats" />
+    </td>
+    <td width="50%"><img align="right" alt="GIF" src=".github/assets/coding.gif"  /></td>
+  </tr>
 <table>
 
 
