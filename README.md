@@ -7,13 +7,13 @@ A JavaScript developer, passionate for building applications & discussing new pr
 [![HackerHank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&&color=%23003140&logoColor=white)](https://www.hackerrank.com/wladimirgrf)
 
 <table>
-  <tr>
-    <td width="48%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimirgrf&layout=compact&hide_border=true" alt="langs_stats" />
-      <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true" alt="profile_stats" />
-    </td>
-    <td width="52%"><img align="right" alt="GIF" src=".github/assets/coding.gif"  /></td>
-  </tr>
+<tr>
+  <td width="48%">
+    <img alt="langs_stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimirgrf&layout=compact&hide_border=true&theme=buefy" />
+    <img alt="profile_stats" src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true&theme=buefy&hide=contribs" />
+  </td>
+  <td width="52%"><img alt-"GIF" align="right" alt="GIF" src=".github/assets/coding.gif"/></td>
+</tr>
 <table>
   
 #### A little more about me...
