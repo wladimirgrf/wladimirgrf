@@ -35,6 +35,16 @@ A JavaScript developer, passionate for building applications & discussing new pr
   </tr>
 <table>
 
-
 -----------------
 
+<p align="center">
+  <i>A problem can be solved in a 100 different ways and there's always an easier way to solve it.</i>
+  <br>
+  <i>You miss 100% of the shots you don't take.</i>
+<p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@:wladimirgrf?theme=moebooru" alt="count"/>
+</p>
+
+<h6 align="center">If you found something interesting in any of my repositories, consider giving it a :star:&nbsp;. It helps me stay on track and be motivated.</h6>
