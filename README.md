@@ -8,11 +8,11 @@ A JavaScript developer, passionate for building applications & discussing new pr
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="48%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimirgrf&layout=compact&hide_border=true" alt="langs_stats" />
       <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true" alt="profile_stats" />
     </td>
-    <td width="50%"><img align="right" alt="GIF" src=".github/assets/coding.gif"  /></td>
+    <td width="52%"><img align="right" alt="GIF" src=".github/assets/coding.gif"  /></td>
   </tr>
 <table>
   
