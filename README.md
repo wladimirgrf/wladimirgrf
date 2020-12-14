@@ -1,5 +1,4 @@
 ### I'm Wladimir
-
 A JavaScript developer, passionate for building applications & discussing new product ideas. 
 </br> Reach out to me if you'd like to talk :v:
 
@@ -17,7 +16,7 @@ A JavaScript developer, passionate for building applications & discussing new pr
   </tr>
 <table>
   
-#### Acquired knowledge
+#### A little more about me...
 <p>
   <img height="40" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react"/>
