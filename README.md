@@ -41,9 +41,8 @@ A JavaScript developer, passionate for building applications & discussing new pr
 -----------------
 
 <p align="center">
-  <i>A problem can be solved in a 100 different ways and there's always an easier way to solve it.</i>
-  <br>
-  <i>You miss 100% of the shots you don't take.</i>
+  <i>Every great developer you know got there by solving problems they were unqualified to solve.</i>
+  </br><i>You miss 100% of the shots you don't take.</i>
 <p>
 
 <p align="center">
