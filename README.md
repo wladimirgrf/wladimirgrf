@@ -1,4 +1,4 @@
-<img alt="HELLO" height="55px" align="left" src=".github/assets/hello.png"/>
+<img alt="hello" height="55px" align="left" src=".github/assets/hello.png"/>
 
 ### I'm Wladimir
 A JavaScript developer, passionate for building applications & discussing new product ideas. 
@@ -11,10 +11,10 @@ A JavaScript developer, passionate for building applications & discussing new pr
 <table>
 <tr>
   <td width="48%">
-    <img alt="langs_stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimirgrf&layout=compact&hide_border=true" />
-    <img alt="profile_stats" src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true&hide=contribs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimirgrf&layout=compact&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true&hide=contribs" />
   </td>
-  <td width="52%"><img alt="GIF" align="right" src=".github/assets/coding.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
 </tr>
 <table>
   
@@ -35,9 +35,9 @@ A JavaScript developer, passionate for building applications & discussing new pr
   <img height="40" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="slack"/>
+  <img height="40" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn"/>
+  <img height="40" src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm"/>
+  <img height="40" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="java"/>
 </p>
 
 -----------------
