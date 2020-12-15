@@ -20,24 +20,22 @@ A JavaScript developer, passionate for building applications & discussing new pr
   
 #### A little more about me...
 <p>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/docker/docker-plain.svg" alt="docker"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg" alt="redis"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/sequelize/sequelize-plain.svg" alt="sequelize"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="slack"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/docker/docker-plain.svg" alt="docker"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg" alt="redis"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/sequelize/sequelize-plain.svg" alt="sequelize"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github"/>
+  <img height="45" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello"/>
 </p>
 
 -----------------
