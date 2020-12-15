@@ -1,4 +1,4 @@
-<img alt="HELLO" height="45px" align="left" src=".github/assets/hello.png"/>
+<img alt="HELLO" height="55px" align="left" src=".github/assets/hello.png"/>
 
 ### I'm Wladimir
 A JavaScript developer, passionate for building applications & discussing new product ideas. 
