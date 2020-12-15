@@ -33,11 +33,11 @@ A JavaScript developer, passionate for building applications & discussing new pr
   <img height="40" src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" alt="redux"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git"/>
+  <img height="40" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="github"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" alt="bitbucket"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/npm/npm-original-wordmark.svg" alt="npm"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="java"/>
+  <img height="40" src="https://devicon.dev/devicon.git/icons/trello/trello-plain.svg" alt="trello"/>
+  <img height="40" src="https://devicon.dev/devicon.git/icons/slack/slack-original.svg" alt="slack"/>
 </p>
 
 -----------------
