@@ -24,7 +24,7 @@ A JavaScript developer, passionate for building applications & discussing new pr
   <img height="40" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/heroku/heroku-original.svg" alt="heroku"/>
-  <img height="40" src="https://devicon.dev/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker"/>
+  <img height="40" src="https://devicon.dev/devicon.git/icons/docker/docker-plain.svg" alt="docker"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" alt="postgresql"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb"/>
   <img height="40" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" alt="mysql"/>
