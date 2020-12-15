@@ -1,3 +1,5 @@
+<img alt="HELLO" height="45px" align="left" src=".github/assets/hello.png"/>
+
 ### I'm Wladimir
 A JavaScript developer, passionate for building applications & discussing new product ideas. 
 </br> Reach out to me if you'd like to talk :v:
@@ -12,7 +14,7 @@ A JavaScript developer, passionate for building applications & discussing new pr
     <img alt="langs_stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladimirgrf&layout=compact&hide_border=true&theme=buefy" />
     <img alt="profile_stats" src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true&theme=buefy&hide=contribs" />
   </td>
-  <td width="52%"><img alt-"GIF" align="right" alt="GIF" src=".github/assets/coding.gif"/></td>
+  <td width="52%"><img alt="GIF" align="right" src=".github/assets/coding.gif"/></td>
 </tr>
 <table>
   
