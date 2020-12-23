@@ -41,8 +41,8 @@ A JavaScript developer, passionate for building applications & discussing new pr
 -----------------
 
 <p align="center">
-  <i>Every great developer you know got there by solving problems they were unqualified to solve.</i>
-  </br><i>You miss 100% of the shots you don't take.</i>
+  <i>When will I know I'm ready?</i>
+  </br><i>You won't. It's a leap of faith.</i>
 <p>
 
 <p align="center">
