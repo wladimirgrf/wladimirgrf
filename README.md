@@ -23,7 +23,7 @@ A JavaScript developer, passionate for building applications & discussing new pr
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="aws"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku"/>
+  <img height="45" src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="heroku"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb"/>
