@@ -20,22 +20,22 @@ A JavaScript developer, passionate for building applications & discussing new pr
   
 #### A little more about me...
 <p>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="aws"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="heroku"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" alt="sequelize"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="eslint"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" alt="jest"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github"/>
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/bitcoin.svg" alt="bitcoin"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="aws"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/heroku.svg" alt="heroku"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" alt="sequelize"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="eslint"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" alt="jest"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github"/>
+  <img height="47" src="https://cdn.worldvectorlogo.com/logos/bitcoin.svg" alt="bitcoin"/>
 </p>
 
 -----------------
