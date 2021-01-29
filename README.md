@@ -26,8 +26,8 @@ A JavaScript developer, passionate for building applications & discussing new pr
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" alt="digital_ocean"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb"/>
+  <img height="45" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="eslint"/>
