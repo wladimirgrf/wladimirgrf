@@ -20,21 +20,21 @@ A JavaScript developer, passionate for building applications & discussing new pr
   
 #### A little more about me...
 <p>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"/>
+  <img height="42" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="aws"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" alt="digital_ocean"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis"/>
+  <img height="38" src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="aws"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/digitalocean-icon-1.svg" alt="digital_ocean"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis"/>
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="eslint"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" alt="jest"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github"/>
-  <img height="45" src="https://cdn.worldvectorlogo.com/logos/bitcoin.svg" alt="bitcoin"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="mysql"/>
+  <img height="44" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs"/>
+  <img height="38" src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" alt="eslint"/>
+  <img height="38" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" alt="jest"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="github"/>
+  <img height="40" src="https://cdn.worldvectorlogo.com/logos/bitcoin.svg" alt="bitcoin"/>
 </p>
 
 -----------------
