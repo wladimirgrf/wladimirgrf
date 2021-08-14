@@ -20,7 +20,6 @@ A JavaScript developer, passionate for building applications & discussing new pr
 #### A little more about me...
 <p>
   <img height="42" src=".github/assets/nodejs.svg" alt="nodejs"/> 
-  &nbsp; <img height="45" src=".github/assets/react.svg" alt="react"/>
   &nbsp; <img height="38" src=".github/assets/aws.svg" alt="aws"/>
   &nbsp; <img height="40" src=".github/assets/digitalocean.svg" alt="digital_ocean"/>
   &nbsp; <img height="40" src=".github/assets/docker.svg" alt="docker"/>
