@@ -6,7 +6,6 @@ A JavaScript developer, passionate for building applications & discussing new pr
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/wladimir-filho)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&&color=%23003140&logoColor=white)](https://twitter.com/wladimirgrf)
-[![HackerHank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&&color=%23003140&logoColor=white)](https://www.hackerrank.com/wladimirgrf)
 
 <table>
 <tr>
