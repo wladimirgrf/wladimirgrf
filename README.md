@@ -28,7 +28,6 @@ A JavaScript developer, passionate for building applications & discussing new pr
   &nbsp; <img height="45" src=".github/assets/mongodb.svg" alt="mongodb"/>
   &nbsp; <img height="40" src=".github/assets/postgresql.svg" alt="postgresql"/>
   &nbsp; <img height="40" src=".github/assets/mysql.svg" alt="mysql"/>
-  &nbsp; <img height="44" src=".github/assets/nextjs.svg" alt="nextjs"/>
   &nbsp; <img height="38" src=".github/assets/eslint.svg" alt="eslint"/>
   &nbsp; <img height="41" src=".github/assets/jest.svg" alt="jest"/>
   &nbsp; <img height="40" src=".github/assets/git.svg" alt="git"/>
