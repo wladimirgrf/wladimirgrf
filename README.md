@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  <samp>&gt; Hi I'm
+  <samp>&gt; Hi, I'm
     <b><a target="_blank" href="#">Wladimir</a></b>
   </samp>
 </h3>
