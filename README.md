@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=wladimirgrf%2Fwladimirgrf%2F&labelColor=%23003140&countColor=%232f80ed)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=wladimirgrf%2Fwladimirgrf&label=Profile%20views&labelColor=%23000&countColor=%23FFB000)
 
 
 <h3 align="center">
@@ -25,7 +25,7 @@
   <summary><samp>&#9776; A little more about me...</samp></summary>
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&theme=vision-friendly-dark" />
 
   <br>
   <h3>📫 How to reach me:</h3>
