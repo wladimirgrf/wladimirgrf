@@ -26,8 +26,6 @@
 
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&hide_border=true" />
-  
-  <hr width="50%">
 
   <h2>💻 Stack:</h2>
   <a href="#">
@@ -56,8 +54,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> 
   </a>
-
-  <hr width="50%">
 
   <h2>📫 How to reach me:</h2>
   <a href="https://www.linkedin.com/in/wladimir-filho">
