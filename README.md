@@ -25,7 +25,7 @@
   <summary><samp>&#9776; A little more about me...</samp></summary>
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&theme=vision-friendly-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
 
   <br>
   <h3>📫 How to reach me:</h3>
