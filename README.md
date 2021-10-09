@@ -12,7 +12,7 @@
     「 A JavaScript developer 」
     <br>
     「 Passionate for building applications & discussing new product ideas. 
-</br> Reach out to me if you'd like to talk :v: 」
+</br> Reach me out if you'd like to talk :v: 」
     <br>
     <br>
   </samp>
