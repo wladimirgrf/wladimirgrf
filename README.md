@@ -25,9 +25,9 @@
   <summary><samp>&#9776; A little more about me...</samp></summary>
 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=wladimirgrf&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  
+  <img src="https://metrics.lecoq.io/wladimirgrf?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo" />
 
-  <br>
   <h3>📫 How to reach me:</h3>
   <a href="https://www.linkedin.com/in/wladimir-filho">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
