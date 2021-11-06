@@ -25,8 +25,9 @@
   <summary><samp>&#9776; A little more about me...</samp></summary>
 
   <br>
-  
-  <img src="https://metrics.lecoq.io/wladimirgrf?template=classic&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FSao_Paulo" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wladimirgrf&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wladimirgrf&theme=monokai" />
 
   <h3>📫 How to reach me:</h3>
   <a href="https://www.linkedin.com/in/wladimir-filho">
