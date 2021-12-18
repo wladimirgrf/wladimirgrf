@@ -26,8 +26,14 @@
 
   <br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wladimirgrf&theme=monokai" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wladimirgrf&theme=monokai" />
+  <div width="100%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wladimirgrf&theme=monokai" />
+  </div>
+
+  <div width="100%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wladimirgrf&theme=monokai" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wladimirgrf&theme=monokai" />
+  </div>
 
   <h3>📫 How to reach me:</h3>
   <a href="https://www.linkedin.com/in/wladimir-filho">
