@@ -31,6 +31,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wladimirgrf&theme=monokai" />
 
   <h3>📫 How to reach me:</h3>
+  <a href="#">
+    <img src="https://img.shields.io/badge/wladimirgrf%231956-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/wladimir-filho">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
