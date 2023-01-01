@@ -9,7 +9,7 @@
 
 <p align="center">
   <samp>
-    「 A JavaScript developer 」
+    「 A Node.js developer 」
     <br>
     「 Passionate for building applications & discussing new product ideas. 
 </br> Reach me out if you'd like to talk :v: 」
