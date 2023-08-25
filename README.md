@@ -12,7 +12,7 @@
     「 A Node.js developer 」
     <br>
     「 Passionate for building applications & discussing new product ideas. 
-</br> Reach me out if you'd like to talk :v: 」
+</br> Reach me out if you'd like to talk ✌🏻 」
     <br>
     <br>
   </samp>
