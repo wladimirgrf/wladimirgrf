@@ -17,7 +17,7 @@
     <br>
   </samp>
 
-  <img width="100%" align="left" src=".github/assets/techs.v2.png"/>
+  <img width="100%" align="left" src=".github/assets/techs.v3.png"/>
 </p>
 
 
